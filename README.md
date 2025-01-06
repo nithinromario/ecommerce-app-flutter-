@@ -41,7 +41,9 @@ lib/
 ## Screenshots
 
 ### Android App Screenshots
-<img src="screenshots/android_home.png" width="300" alt="Android Home Screen">
+<div align="center">
+  <img src="screenshots/android_home.png" width="300" alt="Android Home Screen">
+</div>
 
 Note: iOS screenshots are not available as development was done on Windows platform.
 
