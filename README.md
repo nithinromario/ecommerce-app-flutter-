@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Commerce App Flutter
 
 A modern e-commerce app home page implementation using Flutter.
@@ -66,3 +67,7 @@ lib/
    ```bash
    git push -u origin main
    ```
+=======
+# ecommerce-app-flutter-
+ E-commerce app home page implementation in Flutter 
+>>>>>>> 6aaf13e96182a140007ddb39b1dcd601b13b6fee
