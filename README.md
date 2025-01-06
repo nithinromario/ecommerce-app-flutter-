@@ -39,17 +39,7 @@ lib/
    ```
 
 ## Screenshots
-
-### Android
-![Android Home Screen](screenshots/android_home.png)
-
-Note: iOS screenshots are not available as development was done on Windows platform. iOS Simulator requires macOS.
-
-## Technical Details
-- Flutter SDK
-- Dart programming language
-- Custom implementations without external packages
-- Material Design components
+[Screenshots will be added after capturing from Android emulator]
 
 ## Developer
 - Nithin Romario
