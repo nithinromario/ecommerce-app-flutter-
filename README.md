@@ -22,6 +22,8 @@ lib/
   │   └── mock_data.dart    # Mock data for testing
   └── main.dart             # Main application code
 
+Note: Android screenshots are available in the screenshots folder. iOS screenshots are not available as development was done on Windows platform.
+
 ## Setup Instructions
 1. Clone the repository
    ```bash
@@ -37,15 +39,6 @@ lib/
    ```bash
    flutter run
    ```
-
-## Screenshots
-
-### Android App Screenshots
-<div align="center">
-  <img src="screenshots/android_home.png" width="300" alt="Android Home Screen">
-</div>
-
-Note: iOS screenshots are not available as development was done on Windows platform.
 
 ## Developer
 - Nithin Romario
