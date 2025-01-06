@@ -39,7 +39,11 @@ lib/
    ```
 
 ## Screenshots
-[Screenshots will be added after capturing from Android emulator]
+
+### Android App Screenshots
+<img src="screenshots/android_home.png" width="300" alt="Android Home Screen">
+
+Note: iOS screenshots are not available as development was done on Windows platform.
 
 ## Developer
 - Nithin Romario
