@@ -25,7 +25,7 @@ lib/
 ## Setup Instructions
 1. Clone the repository
    ```bash
-   git clone https://github.com/[your-username]/ecommerce-app-flutter.git
+   git clone https://github.com/nithinromario/ecommerce-app-flutter-.git
    ```
 
 2. Install dependencies
@@ -39,10 +39,7 @@ lib/
    ```
 
 ## Screenshots
-[Add your app screenshots here]
+[Will be added soon]
 
-## Future Improvements
-- State management implementation
-- Shopping cart functionality
-- Product search
-- User authentication
+## Developer
+- Nithin Romario
