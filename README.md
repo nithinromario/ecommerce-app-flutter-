@@ -1,16 +1,48 @@
-# ecommerceapphomepage
+# E-Commerce App Flutter
 
-A new Flutter project.
+A modern e-commerce app home page implementation using Flutter.
 
-## Getting Started
+## Features
+- Banner slider with auto-scroll
+- Horizontal scrollable categories
+- Responsive product grid
+- Modern Material Design UI
 
-This project is a starting point for a Flutter application.
+## Implementation Details
+- Custom PageView for banner slider
+- Efficient lazy loading
+- Responsive layouts
+- Cross-platform compatibility
 
-A few resources to get you started if this is your first Flutter project:
+## Project Structure
+lib/
+  ├── models/
+  │   └── product.dart      # Product data model
+  ├── data/
+  │   └── mock_data.dart    # Mock data for testing
+  └── main.dart             # Main application code
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Setup Instructions
+1. Clone the repository
+   ```bash
+   git clone https://github.com/[your-username]/ecommerce-app-flutter.git
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Install dependencies
+   ```bash
+   flutter pub get
+   ```
+
+3. Run the app
+   ```bash
+   flutter run
+   ```
+
+## Screenshots
+[Add your app screenshots here]
+
+## Future Improvements
+- State management implementation
+- Shopping cart functionality
+- Product search
+- User authentication
