@@ -43,3 +43,26 @@ lib/
 
 ## Developer
 - Nithin Romario
+
+## Git Instructions
+1. First, pull the remote changes
+   ```bash
+   git pull origin main --allow-unrelated-histories
+   ```
+
+2. Resolve any conflicts if they appear
+
+3. Then add your changes
+   ```bash
+   git add .
+   ```
+
+4. Commit your changes
+   ```bash
+   git commit -m "Initial commit: E-commerce app implementation"
+   ```
+
+5. Now push to your repository
+   ```bash
+   git push -u origin main
+   ```
