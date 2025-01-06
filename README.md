@@ -15,14 +15,13 @@ A modern e-commerce app home page implementation using Flutter.
 - Cross-platform compatibility
 
 ## Project Structure
-lib/
-  ├── models/
-  │   └── product.dart      # Product data model
-  ├── data/
-  │   └── mock_data.dart    # Mock data for testing
-  └── main.dart             # Main application code
-
-Note: Android screenshots are available in the screenshots folder. iOS screenshots are not available as development was done on Windows platform.
+```
+📁 lib/
+ ┣ 📁 models/
+ ┃ ┗ 📄 product.dart      # Product data model
+ ┣ 📁 data/
+ ┃ ┗ 📄 mock_data.dart    # Mock data for testing
+ ┗ 📄 main.dart           # Main application code
 
 ## Setup Instructions
 1. Clone the repository
@@ -40,5 +39,11 @@ Note: Android screenshots are available in the screenshots folder. iOS screensho
    flutter run
    ```
 
+## Platform Support
+- ✅ Android: Fully tested and optimized
+- ℹ️ iOS: Development done on Windows platform
+
 ## Developer
 - Nithin Romario
+
+Note: Android screenshots are available in the screenshots folder. iOS screenshots are not available as development was done on Windows platform.
